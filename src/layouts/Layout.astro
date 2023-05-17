@@ -1,0 +1,13 @@
+---
+import TopNav from '../components/TopNav';
+import Footer from '../components/Footer';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+		<TopNav client:only="react" />
+		<slot />
+		<Footer client:only="react" />
+	</body>
+</html>

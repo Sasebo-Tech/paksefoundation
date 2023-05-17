@@ -48,5 +48,4 @@ Astro website
   <a target="_blank" href="https://sasebo.tech"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1671755084/sasebo-tech/SaseboTechFullLogo.webp" alt="Sasebo Tech logo"></a>
 </h4>
 
-
 # paksefoundation
